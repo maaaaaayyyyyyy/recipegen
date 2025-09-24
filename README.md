@@ -1,4 +1,4 @@
-﻿# recipegen
+﻿# recipegenerator
 --->Description
 
 Ce projet est un site web qui permet de générer automatiquement des recettes en fonction des ingrédients disponibles à la maison.
@@ -18,4 +18,5 @@ Il vise à mettre en pratique nos compétences en développement web (HTML, CSS,
 -Frontend : HTML, CSS, JavaScript
 -Backend : PHP
 -Base de données : MySQL
+
 
